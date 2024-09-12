@@ -348,14 +348,14 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ## Authors
 
 <details>
-    <summary>Blessing Hirwa</summary>
+    <summary>Nshimiyandinze Fiston</summary>
     <ul>
-    <li><a href="https://github.com/hirwaalu">Github</a></li>
+    <li><a href="https://github.com/fistonfle">Github</a></li>
     </ul>
 </details>
 <details>
-    <summary>Ephraim Mulilo</summary>
+    <summary>Limpho Semakale</summary>
     <ul>
-    <li><a href="https://github.com/mulilo">Ephraim Mulilo</a></li>
+    <li><a href="https://github.com/L-Semakale">Ephraim Mulilo</a></li>
     </ul>
 </details>

@@ -356,6 +356,6 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Limpho Semakale</summary>
     <ul>
-    <li><a href="https://github.com/L-Semakale">Ephraim Mulilo</a></li>
+    <li><a href="https://github.com/L-Semakale">Github</a></li>
     </ul>
 </details>
